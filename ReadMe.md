@@ -22,4 +22,4 @@ Bu proje, YOLOv3 nesne algılama algoritması kullanılarak geliştirilmiştir. 
 - [coco.names](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
 
 ## Çıktı Karesi
-[![image](https://r.resimlink.com/zKeQa3RVY8.png)](https://resimlink.com/zKeQa3RVY8)
+![image](https://r.resimlink.com/vQrJKjm62qtG.jpg)
